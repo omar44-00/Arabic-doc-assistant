@@ -221,3 +221,14 @@ __marimo__/
 
 chroma_db/
 data/
+
+# Generated Arabic Document Assistant artifacts
+src/output/
+src/tmp/
+src/__pycache__/
+*_pages.json
+*_chunks.json
+*_summaries.json
+*_final_summarize.json
+*_chroma_db/
+Arabic_student.json
